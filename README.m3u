@@ -1,24 +1,17 @@
 # CANALES_LATINOS#EXTM3U
 #EXTINF:-1 tvg-id="127320" tvg-name="Chic Magazine" 
-tvg-logo="https://lh3.googleusercontent.com/-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png", Chic Magazine
 https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="113606" tvg-name="America Estereo" 
-tvg-logo="https://lh3.googleusercontent.com/-0FAirGSQwlU/X4sWcq-V6LI/AAAAAAAA6dg/OdwE3Prm1ZAzghKLWQ3lblcggpoMOjxhgCK8BGAsYHg/s0/2020-10-17.jpg", America Estereo
 https://streamingwowza.com:1936/radioamericaquito/smil:radioamericaquito.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="110968" tvg-name="Retro Plus TV Señal 2" 
-tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="109766" tvg-name="Radio y TV Solidaridad" 
-tvg-logo="https://lh3.googleusercontent.com/-vUohVeMkBZk/XzxldH7kaBI/AAAAAAAA4n8/ZkA-Uw6SuUkC4hNdJzpweAJ04Bk8UV6cQCK8BGAsYHg/s0/2020-08-18.png", Radio y TV Solidaridad
+#EXTINF:-1 tvg-id="109766" tvg-name="Radio y TV Solidaridad"
 https://sv72.ecuaradiotv.net/fundacionvista/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="109764" tvg-name="TV Puruwa" 
-tvg-logo="https://lh3.googleusercontent.com/-CjK6EfMRbBg/XzxqyWBtyNI/AAAAAAAA4pI/CJY81LZq9-82vdizoNbKxQrH4hMSuJErgCK8BGAsYHg/s0/2020-08-18.png", TV Puruwa
 https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="109763" tvg-name="Educa TV" 
-tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV
 https://cloud37.ecuatel.com/educa/educa/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="109760" tvg-name="Max TV" 
-tvg-logo="https://lh3.googleusercontent.com/-ikwXmZAEdGc/XzxptH-lv8I/AAAAAAAA4o0/ziu_Abu0XecB53mgIOioTwfhOGbGrB1AwCK8BGAsYHg/s0/2020-08-18.png", Max TV
 https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="109757" tvg-name="CineCable TV" tvg-logo="https://lh3.googleusercontent.com/-WRgrmcHYIf0/XzxpQ2g856I/AAAAAAAA4os/J9nPPyj6GEQoCs9ilc05e_SgKYfLy-bcQCK8BGAsYHg/s0/2020-08-18.png", CineCable TV
